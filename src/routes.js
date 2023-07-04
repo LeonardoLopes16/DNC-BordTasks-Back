@@ -3,4 +3,4 @@ function routes(app){
     return;
 }
 
-modeule.exports = routes;
+module.exports = routes;
